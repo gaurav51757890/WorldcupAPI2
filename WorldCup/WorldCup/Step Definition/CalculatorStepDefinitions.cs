@@ -20,7 +20,7 @@ namespace WorldCup.Step_Definition
             [Given("the first number is (.*)")]
             public void GivenTheFirstNumberIs(int number)
             {
-                Console.WriteLine("First Number");
+                Console.WriteLine("First Number   ");
 
             }
 
